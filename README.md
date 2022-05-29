@@ -25,7 +25,7 @@ Visit https://my.telegram.org
 
 Create client 
 
-https://github.com/codezzzahm1/telescraper/blob/main/bot.py#L6-L8
+https://github.com/codezzzahm1/telescraper/blob/main/main.py#L6-L8
 
 ### Step 3
 
@@ -53,7 +53,7 @@ We can also apply techniques like **Regression** to predict the growth.
 
 To get that, we iterate the messages between our desired dates. 
 
-https://github.com/codezzzahm1/telescraper/blob/main/bot.py#L10-L20
+https://github.com/codezzzahm1/telescraper/blob/main/main.py#L10-L20
 
 #### Get all the messages from group 
 
@@ -76,4 +76,4 @@ Like,
 To do this, we iterate through all messages until certain limit reached. 
 
 
-https://github.com/codezzzahm1/telescraper/blob/main/bot.py#L22-L24
+https://github.com/codezzzahm1/telescraper/blob/main/main.py#L22-L24
