@@ -3,8 +3,8 @@ from telethon import TelegramClient, sync
 from telethon import functions, types 
 import datetime
 
-api_id = 1936754
-api_hash = '8d17079075c33d6d965b3f89ef9f1f5c'
+api_id = 
+api_hash =
 client = TelegramClient('session_name', api_id, api_hash).start() 
         
 def get_total_chat_count_for_n_days(group_chat_username, date_range): 
