@@ -63,7 +63,7 @@ The process might take longer, if your group is very active, since there will be
 
 Pass the limit to stop extraction at certain point. 
 
-The cleaning process may be tedious task but after completion you may get good dataset on the particular topic of the group. 
+The cleaning process may be tedious task, but after completion you may get good dataset on the particular topic of the group. 
 
 We can introduce many application by this dataset,
 
