@@ -26,8 +26,11 @@ Visit https://my.telegram.org
 Create client 
 
 > from telethon import TelegramClient, sync 
-> api_id = #your api id
-> api_hash = '#your api hash'
+
+>api_id = #your api id 
+
+> api_hash = '#your api hash' 
+
 > client = TelegramClient('session_name', api_id, api_hash).start() 
 
 ### Step 3
