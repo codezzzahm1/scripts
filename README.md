@@ -59,9 +59,9 @@ https://github.com/codezzzahm1/telescraper/blob/main/bot.py#L10-L20
 
 This is the tremendous and very use full data we have.
 
-This process might take longer if your group is very active since there will be lot of chats.
+The process might take longer, if your group is very active, since there will be lot of chats.
 
-You can pass the limit to stop extraction at certain point. 
+Pass the limit to stop extraction at certain point. 
 
 The cleaning process may be tedious task but after completion you may get good dataset on the particular topic of the group. 
 
@@ -74,5 +74,6 @@ Like,
 - Text Summarization 
 
 To do this, we iterate through all messages until certain limit reached. 
+
 
 
