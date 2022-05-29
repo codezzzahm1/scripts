@@ -37,7 +37,7 @@ Get the Username or ID of the group to extract the data.
 
 Now that's all the basic stuff we need. 
 
-I will shortly brief about the functions since I didn't comment my code.
+I will shortly brief, since I didn't comment my code.
 
 #### Analyze number of messages group receive over the days.
 
