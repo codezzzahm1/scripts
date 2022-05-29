@@ -57,15 +57,13 @@ https://github.com/codezzzahm1/telescraper/blob/main/main.py#L10-L20
 
 #### Get all the messages from group 
 
-This is the tremendous and very use full data we have.
+This is the tremendous and very use full data we are going to get.
 
 The process might take longer, if your group is very active, since there will be lot of chats.
 
-Pass the limit to stop extraction at certain point. 
+The cleaning process will be tedious, but after completion you may get good dataset on the particular topic of the group. 
 
-The cleaning process may be tedious task, but after completion you may get good dataset on the particular topic of the group. 
-
-We can introduce many application by this dataset,
+This is very use full in ML.
 
 Like, 
 
@@ -73,7 +71,7 @@ Like,
 - Sentiment Analysis
 - Text Summarization 
 
-To do this, we iterate through all messages until certain limit reached. 
+To do this, we iterate all the messages until certain limit reached. 
 
 
 https://github.com/codezzzahm1/telescraper/blob/main/main.py#L22-L24
