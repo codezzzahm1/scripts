@@ -37,8 +37,6 @@ Get the Username or ID of the group to extract the data.
 
 Now that's all the basic stuff we need. 
 
-I will shortly brief, since I didn't comment my code.
-
 #### Analyze number of messages group receive over the days.
 
 By finding daily chat count and comparing it with previous days, we can answer lot about the group. 
@@ -84,4 +82,6 @@ Getting amount of messages user sent in group is interesting one.
 By this, we will to know who is the most active/inactive and how much they contributed for the community or how much of troller they are.
 
 https://github.com/codezzzahm1/telescraper/blob/main/main.py#L26-L50
+
+**Thank you, that's all for now !** 
 
