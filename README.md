@@ -61,15 +61,21 @@ To get that, we iterate the messages between our desired dates.
 
 > def get_total_chat_count_for_n_days(group_chat_username, date_range): 
 
-
 >    date_with_chat_count_dict = {} 
-    start_date = datetime.date.today() + datetime.timedelta(-abs(date_range))
-    end_date = datetime.date.today() + datetime.timedelta(-1)
-    while start_date <= end_date: 
-        for chat in client.iter_messages(group_chat_username, offset_date=start_date): 
-            if start_date in date_with_chat_count_dict:
+
+>    start_date = datetime.date.today() + datetime.timedelta(-abs(date_range))
+  
+>    end_date = datetime.date.today() + datetime.timedelta(-1)
+  
+>    while start_date <= end_date: 
+     
+>       for chat in client.iter_messages(group_chat_username, offset_date=start_date): 
+       
+>           if start_date in date_with_chat_count_dict:
                 date_with_chat_count_dict[start_date] += 1 
-            else:
+
+>           else:
                 date_with_chat_count_dict[start_date] = 1 
     return date_with_chat_count_dict
 
+>    return date_with_chat_count_dict
