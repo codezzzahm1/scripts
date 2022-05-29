@@ -54,3 +54,25 @@ We can also apply techniques like **Regression** to predict the growth.
 To get that, we iterate the messages between our desired dates. 
 
 https://github.com/codezzzahm1/telescraper/blob/main/bot.py#L10-L20
+
+#### Get all the messages from group 
+
+This is the tremendous and very use full data we have.
+
+This process might take longer if your group is very active since there will be lot of chats.
+
+You can pass the limit to stop extraction at certain point. 
+
+The cleaning process may be tedious task but after completion you may get good dataset on the particular topic of the group. 
+
+We can introduce many application by this dataset,
+
+Like, 
+
+- Chatbot 
+- Sentiment Analysis
+- Text Summarization 
+
+To do this, we iterate through all messages until certain limit reached. 
+
+
