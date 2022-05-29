@@ -44,4 +44,17 @@ I will shortly brief about the functions since I didn't comment my code.
 
 #### Analyze number of messages group receive over the days.
 
-By analysing the chat count we can tell a lot about the group. 
+By finding daily chat count and comparing it with previous days, we can answer lot about the group. 
+
+Like, 
+
+- Is this community growing ?
+- Is this community becoming useful ? 
+- What is the average activeness of the group? 
+
+We can also apply techniques like **Regression** to predict the growth.
+
+To get that, we iterate the messages between our desired dates. 
+
+> client.iter_messages(group_chat_username, offset_date=start_date): 
+
