@@ -56,4 +56,5 @@ def get_all_chat_from_user(group_chat_username, user, msg_limit):
     return chats     
     
 group_username = input("\nGroup username? ") 
-print(get_total_chat_count_for_n_days(group_username, 1))
+
+#print any function by passing group_username
