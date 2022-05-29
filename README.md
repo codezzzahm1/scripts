@@ -75,7 +75,7 @@ To do this, we iterate all the messages until certain limit reached.
 
 https://github.com/codezzzahm1/telescraper/blob/main/main.py#L22-L24
 
-###### Tip : Use pandas to export it as CSV or EXCEL.
+###### Tip : Use pandas to export it as csv or excel.
 
 #### Get the members with their chat count 
 
