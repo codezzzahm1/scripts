@@ -73,5 +73,15 @@ Like,
 
 To do this, we iterate all the messages until certain limit reached. 
 
-
 https://github.com/codezzzahm1/telescraper/blob/main/main.py#L22-L24
+
+###### Tip : Use pandas to export it to CSV
+
+#### Get the members with their chat count 
+
+Getting amount of messages user sent in group is interesting one.
+
+By this, we will to know who is the most active/inactive and how much they contributed for the community or how much of troller they are.
+
+
+
