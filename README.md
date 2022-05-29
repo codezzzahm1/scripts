@@ -25,6 +25,7 @@ Visit https://my.telegram.org
 
 Create client 
 
+https://github.com/codezzzahm1/telescraper/blob/main/bot.py#L6-L8
 
 ### Step 3
 
