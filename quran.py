@@ -1,3 +1,5 @@
+#Text similarity in Quran 
+
 import json
 import spacy
 nlp = spacy.load("en_core_web_lg")
